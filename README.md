@@ -32,5 +32,10 @@ This project relies on publicly available, open-source datasets, including:
 - 🔍 **Clustering & Pattern Discovery**: Uncover typical consumption patterns across homes or appliances.
 - 📦 **Appliance-Level Modeling**: Track and simulate the behavior of individual appliances like refrigerators, washing machines, kettles, etc.
 
+## ▶️ Getting Started
 
-
+### 1. Clone the Repository
+```bash
+git clone https://github.com/adam-ben-rhaiem/generative-AI-enhanced-energy-consumption-simulator-using-open-source-data
+.git
+cd generative-AI-enhanced-energy-consumption-simulator-using-open-source-data
